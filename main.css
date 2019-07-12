@@ -11,8 +11,10 @@ li {
 ul li p {
   padding: 15%;
   margin: 0;
+  background-color: #ffffff;
+  transition: all 300ms ease-in-out;
 }
 
 .new-color {
-  background-color: /* New color goes here - pick something fun :) */;
+  background-color: #26985a;
 }
